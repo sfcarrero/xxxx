@@ -10,11 +10,9 @@ body {
 	width: 100%;
 }
 
-
 #feira3 {
 	width: 100%;
 }
-
 
 h1 {
 	text-align: center
@@ -26,17 +24,17 @@ p {
 
 #prefeito {
 	color: blue;
+    text-align: left;
 }
 
 #secretario {
 	color: rgb(158, 108, 15);
+    text-align: right;
 }
 
 #atraves {
 	color: red;
 }
-
-
 
 em strong {
 	color: #FF0000;
