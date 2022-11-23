@@ -1,1 +1,27 @@
+body {
+	background: #9be7d7
+}
 
+#banner {
+	width: 100%;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#adesao {
+	color: blue;
+}
+
+#secretario {
+	color: rgb(158, 108, 15);
+}
+
+em strong {
+	color: #FF0000;
+}
